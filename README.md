@@ -37,8 +37,10 @@ Novelty:
 3) Bilingual Content: Expands accessibility by supporting Hindi and English.
 4) Advanced Models: Seamless integration of APIs and models for efficient results.
 
-UI:
 ![image](https://github.com/user-attachments/assets/148b8877-ac30-4a9f-9a0a-2a6830ce2732)
 ![image](https://github.com/user-attachments/assets/f727e83f-17ef-4b48-8bc4-e7f9c24a7c9c)
 ![image](https://github.com/user-attachments/assets/3b327eef-eb61-4d0a-8c8f-2ea571aaa7c9)
+![image](https://github.com/user-attachments/assets/c6fa42a9-78ae-4eee-92a6-c2fbceb91fa7)
+![image](https://github.com/user-attachments/assets/2bfbdff7-2bf0-40fa-8817-70ddd2c59668)
+![image](https://github.com/user-attachments/assets/da282fd0-1dd0-4161-a661-4c1e07f69de7)
 
