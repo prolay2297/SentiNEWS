@@ -16,9 +16,9 @@ The overwhelming volume of news and time constraints make it difficult to consum
 4) Motivation
 
 SentiNEWS addresses these challenges by creating a platform that empowers:
->> Busy individuals seeking concise news.
->> People with disabilities, especially those visually impaired.
->> Multilingual users who prefer content in Hindi or English.
+-> Busy individuals seeking concise news.
+-> People with disabilities, especially those visually impaired.
+-> Multilingual users who prefer content in Hindi or English.
 
 Methodology:
 1) Text Processing and Summarization: Utilizes NLTK, the Newspaper Library, and the BART model (bart-large-cnn).
